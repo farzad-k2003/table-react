@@ -1,0 +1,20 @@
+.edit-field {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    
+    
+        input {
+            width: 60%;
+            height: max-content;
+            border: 1px solid rgb(177, 177, 177);
+            border-radius: 3px;
+            background-color: whitesmoke;
+            margin-bottom: 15px;
+            padding: 1px 5px;
+        }
+    
+    
+}

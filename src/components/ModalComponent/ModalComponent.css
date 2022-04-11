@@ -1,0 +1,29 @@
+.edit-field {
+  width: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+
+.edit-field input {
+  width: 60%;
+  height: -webkit-max-content;
+  height: -moz-max-content;
+  height: max-content;
+  border: 1px solid #b1b1b1;
+  border-radius: 3px;
+  background-color: whitesmoke;
+  margin-bottom: 15px;
+  padding: 1px 5px;
+}
+/*# sourceMappingURL=ModalComponent.css.map */
